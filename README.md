@@ -24,3 +24,9 @@ Newsletter periódica do servidor RPG Portugal.
 * ConCordia
 * #rpgenesis
 * dreamup#1404
+
+Estrutura de uma peça para a gazeta:
+* Imagem ilustrativa (formato 4:3)
+* Parágrafo em Português 
+* Tradução em Inglês
+* Botão com algum link correspondente (opcional)
