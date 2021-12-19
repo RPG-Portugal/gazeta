@@ -12,16 +12,11 @@ In this gazette, we tell you all about...
 
 ---
 
-Título 1
-
-parágrafo PT
-
-—
-
-parágrafo EN
+Infografia Novembro + Dezembro 
 
 ---
 
+(novo site da Quebra Dados)
 Título 2
 
 parágrafo PT
@@ -29,6 +24,9 @@ parágrafo PT
 —
 
 parágrafo EN
+
+https://quebradados.com
+
 
 ---
 
