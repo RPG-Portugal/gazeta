@@ -1,0 +1,80 @@
+#14
+
+introdução
+
+---
+
+resumo dos tópicos
+
+---
+
+O regresso dos encontros presenciais
+
+Nos últimos meses, o RPG Portugal tem assistido ao regresso gradual dos roleplayers em Portugal a encontros rpgísticos presenciais. Em Lisboa, os encontros mensais estão de volta, e cheios de vida!, agora num novo espaço - a Games of the West. Em Santarém, primeiro pela mão dos Joga P'ra Torre, e agora com o regresso dos encontros na Vault01, o que não falta é escolha. No Porto, o Grupo de Roleplayers do Porto deu nova vida às suas campanhas jogadas quinzenalmente, com uma vasta panóplia de RPGs em destaque.
+Para além destes eventos regulares que tanta falta faziam na vida das comunidades rpgísticas locais, houve também espaço para a estreia de dois eventos de maior escala - a Rolinvicta, acolhida pela Quebra-Dados no Porto, e o Rolmeet, na biblioteca Palácio Galveias, Lisboa. Ambos contaram com uma participação bastante positiva, e deixam boas perspetivas para um futuro enriquecimento do calendário rpgístico nacional.
+
+EN
+
+---
+
+Alterações no RPG Portugal
+
+A acompanhar este novo fôlego na vida rpgística nacional, o RPG Portugal tem dado largos passos para cumprir o seu objetivo de apoiar as iniciativas portuguesas no âmbito dos RPGs, tanto dentro do servidor, como em toda a sua presença exterior.
+Dentro do servidor, e graças ao valente trabalhos dos nossos corajosos dos nossos Sapateir@s a configurar a bota Orthanc, foi dada nova vida ao canal dedicado a #play-by-chat e aos chats de texto integrados nos vários canais de voz. É possível também acompanhar os eventos rpgísticos a acontecer por todo o Portugal, cuja calendarização é constantemente atualizada. (incluir atualização dos roles regionais, sim ou não?). Por fim, temos o prazer de constatar o crescimento tanto da equipa de moderadores, com a inclusão da Sanguinia#4294, como de Trovadores, com a nomeação do OCHAR#0501 e do Dudae#2528.
+Fora do servidor, os elementos visuais do RPG Portugal estão a ser repensados, e a webpage teve direito também a um novo look. Graças ao trabalho do incansável dreamup#1404, agora temos uma nova secção feita a pensar nos eventos que vão ressurgindo! Além disso, temos o prazer de constatar que finalmente o RPG Portugal está também representado no Facebook, através da sua própria página.
+
+EN
+
+---
+
+RPGenesis 2022
+
+Está naquela altura do ano outra vez. A maior jam nacional dedicada à criação e desenvolvimento de RPGs é já no próximo mês, de 14 a 20 de agosto. Objetivo do RPGenesis passa pela escrita de um RPJ jogável com 5000 ou mais palavras, durante 7 dias. Caso esta missão te pareça hercúlea, mesmo com o apoio e encorajamento da comunidade, temos novidades para este ano, uma vez que agora é possível trabalhar num projeto em equipa.
+
+EN
+
+---
+
+infografia
+D&D - 20
+Warhammer Fantasy - 5
+Call of Cthulhu - 31
+KULT - 3
+Starfinder - 6
+Shadow of the Demon Lord -1
+The Witch is Dead - 1 ?
+Vampire - 14
+The Witch House - 1 ?
+Eletric Bastionland - 1
+Dune - 3
+Ryuutama - 1
+Dungeon World - 6
+Wraith - 1
+Cy_Borg - 2
+Mud - 5
+Stars Without Number - 1
+Follow - 1
+Veridiana - 1
+Deadlands - 1 ?
+Liminal - 2
+Hunter - 2
+Honor Among Thieves - 1
+
+---
+
+Este número da Gazeta RPG Portugal nasceu da colaboração entre:
+This edition of the RPG Portugal Gazette was born from the collaboration between:
+dreamup#1404
+Dimitri_K#8123
+NyOrlandhotep#367
+dcurado#5297
+ghoulette#9742
+
+Números Anteriores | Previous Numbers
+https://us18.campaign-archive.com/home/?u=d78ac4055fb9615581176699a&id=44e16f4bac
+
+Colaboradores convidados
+https://github.com/RPG-Portugal/gazeta/issues/45
+
+O Nosso Trabalho no GitHub
+https://github.com/RPG-Portugal/gazeta
