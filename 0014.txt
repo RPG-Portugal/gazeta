@@ -36,29 +36,36 @@ EN
 ---
 
 infografia
-D&D - 20
-Warhammer Fantasy - 5
 Call of Cthulhu - 31
-KULT - 3
-Starfinder - 6
-Shadow of the Demon Lord -1
-The Witch is Dead - 1 ?
+D&D - 20
 Vampire - 14
-The Witch House - 1 ?
-Eletric Bastionland - 1
-Dune - 3
-Ryuutama - 1
 Dungeon World - 6
-Wraith - 1
-Cy_Borg - 2
+Starfinder - 6
+Warhammer Fantasy - 5
 Mud - 5
-Stars Without Number - 1
-Follow - 1
-Veridiana - 1
-Deadlands - 1 ?
+KULT - 3
+Dune - 3
+Cy_Borg - 2
 Liminal - 2
 Hunter - 2
+Deadlands - 1 
+Stars Without Number - 1
 Honor Among Thieves - 1
+Follow - 1
+Veridiana - 1
+Ryuutama - 1
+Wraith - 1
+The Witch is Dead - 1 
+The Witch House - 1 
+Shadow of the Demon Lord -1
+Eletric Bastionland - 1
+
+31, 
+20, 
+14, 
+6, 5, 
+3, 2, 
+1
 
 ---
 
