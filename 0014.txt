@@ -20,6 +20,8 @@ Para além destes eventos regulares que tanta falta faziam na vida das comunidad
 
 EN
 
+https://rpgportugal.com/grl
+
 ---
 
 Tudo tem de mudar para ficar na mesma
@@ -30,6 +32,8 @@ Para lá do Discord, os elementos visuais do RPG Portugal estão a ser repensado
 
 EN
 
+https://rpgportugal.com
+
 ---
 
 RPGenesis 2022
@@ -37,6 +41,9 @@ RPGenesis 2022
 Está naquela altura do ano outra vez. A maior jam nacional dedicada à criação e desenvolvimento de RPGs é já no próximo mês, de 14 a 20 de agosto. Como sempre, o RPGenesis desafia-te a durante este evento de 7 dias escreveres um RPG jogável com 5000 ou mais palavras. Caso esta missão te pareça hercúlea, mesmo com o apoio e encorajamento da comunidade, temos novidades para este ano, uma vez que agora é possível trabalhar num projeto em equipa.
 
 EN
+
+
+https://rpgportugal.com/rpgenesis
 
 ---
 
@@ -78,6 +85,9 @@ Este número da Gazeta RPG Portugal nasceu da colaboração entre:
 This edition of the RPG Portugal Gazette was born from the collaboration between:
 dreamup#1404
 Dimitri_K#8123
+
+Outros colaboradores:
+Other collaborators:
 NyOrlandhotep#367
 dcurado#5297
 ghoulette#9742
