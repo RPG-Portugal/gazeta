@@ -1,5 +1,6 @@
 # Gazeta RPG Portugal
-Newsletter periódica do servidor RPG Portugal.
+Newsletter periódica do RPG Portugal
+https://rpgportugal.com
 
 💜Como contribuir:
 
